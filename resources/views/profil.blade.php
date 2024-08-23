@@ -19,7 +19,7 @@
                 <p class="text-gray-600">+62 826 9327 9382</p>
             </div>
             <div class="space-y-4">
-                <a href="#"
+                <a href="/acc"
                     class="block bg-white p-4 rounded-lg shadow-md text-gray-700 font-semibold flex items-center justify-between">
                     <span>My Account</span>
                     <svg class="w-5 h-5 text-gray-500" fill="currentColor" viewBox="0 0 20 20">

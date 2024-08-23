@@ -162,13 +162,15 @@
                 </svg>
                 <span class="text-xs">Budget</span>
             </button>
-            <button class="flex flex-col items-center">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                    stroke="currentColor" stroke-width="2">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M3 12h18M3 6h18M3 18h18" />
-                </svg>
-                <span class="text-xs">Settings</span>
-            </button>
+            <a href="/profil">
+                <button class="flex flex-col items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3 12h18M3 6h18M3 18h18" />
+                    </svg>
+                    <span class="text-xs">Settings</span>
+                </button>
+            </a>
         </div>
         </div>
         </div>

@@ -14,12 +14,14 @@
         <div class="bg-gray-100 p-8 rounded-lg shadow-lg w-full max-w-md">
             <div class="flex justify-between items-center mb-6">
                 <h2 class="text-xl font-bold">My Account</h2>
-                <button class="text-gray-700 hover:text-gray-900">
-                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M10 3a7 7 0 100 14 7 7 0 000-14zM8 10a2 2 0 114 0 2 2 0 01-4 0z"
-                            clip-rule="evenodd" />
-                    </svg>
-                </button>
+                <a href="/profil">
+                    <button class="text-gray-700 hover:text-gray-900">
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 3a7 7 0 100 14 7 7 0 000-14zM8 10a2 2 0 114 0 2 2 0 01-4 0z"
+                                clip-rule="evenodd" />
+                        </svg>
+                    </button>
+                </a>
             </div>
             <div class="space-y-4">
                 <div>

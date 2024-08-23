@@ -34,13 +34,7 @@
             <div class="p-4">
                 <div class="flex justify-between items-center">
                     <h3 class="text-lg font-semibold">April</h3>
-                    <button class="text-blue-500">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                            stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </button>
+
                 </div>
                 <ul class="mt-4 space-y-4">
                     <li class="flex justify-between">
@@ -101,13 +95,7 @@
             <div class="p-4">
                 <div class="flex justify-between items-center">
                     <h3 class="text-lg font-semibold">October</h3>
-                    <button class="text-blue-500">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
-                            stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </button>
+
                 </div>
                 <ul class="mt-4 space-y-4">
                     <li class="flex justify-between">
@@ -127,8 +115,8 @@
                     </li>
                     <li class="flex justify-between">
                         <div class="flex items-center">
-                            <svg class="w-10 h-10 text-gray-500 mr-3" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <svg class="w-10 h-10 text-gray-500 mr-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor">
                                 <path d="M0 0h24v24H0z" stroke="none" />
                                 <rect x="4" y="4" width="16" height="16" rx="2" />
                                 <path d="M4 8h16M8 4v4M12 12v4m0 0h4" />

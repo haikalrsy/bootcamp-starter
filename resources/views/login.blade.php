@@ -62,11 +62,14 @@
                         id="confirm_password" type="password" placeholder="">
                 </div>
                 <div class="flex items-center justify-between">
-                    <button
+                    <a href="/homepage">
+
+                        <button
                         class="bg-indigo-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full"
                         type="button" g>
                         Sign Up
                     </button>
+                </a>
                 </div>
                 <p class="text-center text-gray-600 text-xs mt-4">
                     By continuing, you agree to <a href="#" class="text-indigo-600 hover:text-indigo-800">Terms of
