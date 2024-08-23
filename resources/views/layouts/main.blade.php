@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<script src="https://cdn.tailwindcss.com"></script>
 
 <head>
     <meta charset="utf-8">
@@ -24,8 +25,8 @@
                 @yield('section')
             </main>
 
-            <footer class="py-6 mt-auto bg-white text-center text-sm text-black">
-                <p>your footer here</p>
+            <footer class="py-6 mt-auto bg-white text-center  text-3xl font-bold text-teal-700">
+                <p>MyWallets</p>
             </footer>
         </div>
     </div>
